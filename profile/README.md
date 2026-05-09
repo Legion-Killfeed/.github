@@ -1,306 +1,24 @@
-# WELCOME TO LEGION KILLFEED'S WIKIPEDIA
+# Legion Killfeed Wiki
 
-<table>
-  <tr>
-    <td colspan="2">
-      <a href="https://killfeed.co/"><img src="https://killfeed.co/a/i/lkb.png" alt="Legion Killfeed Banner"></a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://killfeed.co/a/i/LK.gif" alt="Legion Killfeed Logo"></td>
-    <td rowspan="6"><a href="https://www.trustpilot.com/review/killfeed.co"><img src="https://i.ibb.co/VYG3WVvg/Legion-Best.png" alt="Legion Killfeed is rated the best"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://discord.gg/LegionKillfeed"><img src="https://killfeed.co/a/gh/LegionCord.png" alt="Discord for Legion Killfeed"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://ko-fi.com/LegionKillfeed"><img src="https://killfeed.co/a/gh/LegionFi.png" alt="KoFi for Legion Killfeed"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.tiktok.com/@legionkillfeed"><img src="https://killfeed.co/a/gh/LegionTok.png" alt="TikTok for Legion Killfeed"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://youtube.com/@LegionKillfeed"><img src="https://killfeed.co/a/gh/LegionTube.png" alt="YouTube for Legion Killfeed"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://PayPal.Me/CoderSoul"><img src="https://killfeed.co/a/gh/LegionPay.png" alt="Donate Via PayPal to Legion Killfeed"></a></td>
-  </tr>
-</table> 
+Welcome to the **Legion Killfeed Wiki**, your go-to resource for understanding and utilizing all features of Legion Killfeed to get the most out of the bot and your server. Below is the index of all available sections categorized by language.
 
-| <sub>[Legion Killfeed's Wiki](https://github.com/Legion-Killfeed/DayZ/wiki/Home)</sub> | <sub>[Wiki de Killfeed de Legion](https://github.com/Legion-Killfeed/DayZ/wiki/Home)</sub> | <sub>[Википедия Легиона Киллфида](https://github.com/Legion-Killfeed/DayZ/wiki/Home)</sub> | <sub>[Wikipedia di Legion Killfeed](https://github.com/Legion-Killfeed/DayZ/wiki/Home)</sub> |
-|------|------|------|------|
-| <sub>[Wikipédia de Legion Killfeed](https://github.com/Legion-Killfeed/DayZ/wiki/Home)</sub> | <sub>[ويكيبيديا Legion Killfeed](https://github.com/Legion-Killfeed/DayZ/wiki/Home)</sub> | <sub>[Wikipedia zum Legion Killfeed](https://github.com/Legion-Killfeed/DayZ/wiki/Home)</sub> | <sub>[![UserManual](https://i.ibb.co/XZ2NDXqg/User-Manual-Icon.png)](https://github.com/Legion-Killfeed/DayZ/wiki/Home)</sub> |
 
-> [!NOTE]
-> Here are some additional DayZ tools and information.  
->  | [`Legion's Privacy & ToS`](https://killfeed.co/legal "Click to open Legion's Website") | [`DayZ Specific File Validator`](https://dayz.modding.click/file-validator "Click to view the dayz specific file validator") |  [`DayZ Compare Tool`](https://killfeed.co/dayz/compare-files "Click to jump to Dayz Compare Tool") | [`DayZ Help`](https://killfeed.co/dayz "Click to go to Legion's website") | [`Code Reducing Tool`](https://modding.click/code-reducer) |
-> |------|------|------|------|------|
-
----
-
-### <a name="faqs">FAQs Frequently Asked Questions</a>
-
----
-
-**Q: How do I setup the bot?**<br>
-**A: [#‼️ instructions ‼️](https://discord.com/channels/1122399232414990438/1296259339220287529) has the exact steps outlined in 7 languages and links to the appropriate places**
-
-> [!NOTE]
-> Please don't open a ticket to ask how to set it up unless you're experiencing issues
-
-> [!CAUTION]
-> Opening a ticket and not saying anything will get you a week long timeout.
-
-> [!WARNING]
-> Pinging staff in tickets will be met with anger, we are already in the ticket, we will respond when we can.
----
-
-**Q: Is there a trader?**<br>
-**A: There is a bug with this feature causing a failure, it is being fixed but it is a very complexly coded feature so it is taking some time to solve the issue, in the meantime we have alternative solutions that admins can do:**
-
-> [!NOTE]
-> `/admin spawner add selection: xcoord: ycoord: zcoord: item: lifetime: eventname: nominal: maxamount: minamount: restock:` <sub>is to build an event via discord directly into your files</sub>
-> `/admin spawer remove eventname:EXACT EVENT NAME` <sub>to remove it from your files</sub>
-
-> [!NOTE]
-> `/webinterface upload file: folder:` <sub>to upload a custom made json file to your server<sub>
+> ## Special Announcement
 >
-> `/gameplay edit choice: option: filename:` <sub>to add the new json file to the ObjectSpawnerArr in cfggameplay.json<sub>
----
-
-**Q: What features does Legion Killfeed have?**<br>
-**A: There is not a full compiled list of features as of yet, but majority of them are listed in [#features](https://discord.com/channels/1122399232414990438/1130522659017465966)**
-
-- We have most features all competitors have
-- We have over 150 discord commands
-
-> [!NOTE]
-> Our dashboard is under development currently
----
-
-**Q: Is there a scheduler?**<br>
-**A: There is going to be one which will help resolve the issue with the trader**
-> [!CAUTION]
-> Currently any scheduler commands that show in discord will not work until it is complete.
----
-
-**Q: I feel like the killfeed is being slow?**<br>
-**A: The killfeed is only ever delayed by Nitrado being slow to update logs, we check for new logs every 4-7mins, which is shown in [#killfeed-loop](https://discord.com/channels/1122399232414990438/1122435730271113258) (channel only visible to subscribers and their staff)**
-
-> [!NOTE]
-> If it's been more than 15mins since a message has been posted in that channel, bring it to our attention and the delays will immediately be investigated if a developer is online.
----
-
-**Q: Why is Soul an asshole/rude/a dick?**<br>
-**A: There are many reasons you could `think` Soul is being an asshole, he is not intending to sound like a dick or come across rudely (most of the time).**
-
-- He's Australian, it's how most Australians talk
-- He's just direct and raw/unfiltered
-
-> [!NOTE]
-> If he's debugging an issue while responding to you he's also checking:
+> I categorically deny the allegation that Legion Killfeed collects, sells, abuses, leaks, or misuses customer files or server data.
 >
-> - the bot log file
-> - the command usage
-> - the database and
-> - the code
-> - all at once, because of this often his speed of response is seen as rude
-
-> [!WARNING]
-> He swears, he's an adult, get over it, he's not calling anyone names, he's using swear words to express frustration or annoyance
-
-> [!CAUTION]
-> He has ADHD, most people with ADHD have issues communicating properly and often have trouble:
+> Legion Killfeed uses access only for the features customers authorise, including Nitrado integration, log processing, server tools, killfeeds, stats, and related bot functions.
 >
-> - understanding what others say
-> - remembering details
-> - understanding social nuances
-> - organizing thoughts
-> - staying on task during conversations
+> Evidence, technical context, records, timelines, screenshots, and source patterns are available at https://they-wish-i.died.space. Anyone relying on anonymous Reddit comments, competitor pages, or forum pile-ons should ask for evidence instead of treating smear content as fact.
 >
----
+> Reviews and customer feedback are linked from https://killfeed.co/reviews. Legion Killfeed does not advertise or seek people out; people find Legion themselves through the website, wiki, Discord, tools, reviews, and community recommendations.
 
-**Q: My server ran out of time, how do I turn the killfeed back on for it?**<br>
-**A: Currently, you need to do `/setup token` then `/setup activate` to turn it back on**
+<details>
+<summary>
 
-> [!NOTE]
-> The `/setup new` command will not add it back anymore as it was abused to bypass paying for the subscription.
----
+![Legion Killfeed](https://killfeed.co/images/favicons/LegionNewHeader.png)
 
-**Q: Why is one of my members blacklisted from the bot?**<br>
-**A: There could be a number of reasons, most people blacklisted have either;**
-
-- Made threats towards staff here
-- Made threats towards staff members family members
-- Been caught using cheating devices to boost their stats (like a cronus)
-- Used the killfeed then at the end of their subscriptions requested a refund via PayPal
-- Violated our [ToS](https://killfeed.co/legal#terms-of-service).
-
-> [!WARNING]
-> These people will never be given access to our services again, it's their own fault and no compromises will be made.
----
-
-**Q: Why is it telling me to subscribe if I already have?**<br>
-**A: There are multiple reasons you could be getting this message, check all of the below before opening a ticket.**
-
-- Is your discord account linked to your ko-fi account?
-  - If not link it [here](https://ko-fi.com/Discord/Settings)
-- Were you a member of the discord at the time of subscribing or before trying to use token?
-  - If you weren't, open a ticket [here](https://discord.com/channels/1122399232414990438/1138583694517489764) and ask a developer to check your activation
-
-> [!NOTE]
-> If everything is active but you're still getting the error, like for example, from a command, it could be you're not in the assigned channel for those commands, the subscribe message is a fallback response on some commands, we are updating these to be accurate to the error.
----
-
-<!--#Tickets -->
-
-**Q: How do I setup the ticket system?**<br>
-**A: The ticket system auto-deletes if not fully setup correctly, Once you've done:**
-
-- `/tickets setup panel` & `/tickets setup welcome` & `/ticket setup style` you do `/tickets setup finish`
->
-> - the bot will create a:
->   - category
->   - ticket channel
->   - archive channel
-
-> [!NOTE]
->
-> - Ticket Panel is the message that you use to open tickets
-> - The first message in the ticket is the Welcome Panel
-
-![ticket-system.png](https://i.postimg.cc/tCvbTtQY/ticket-system.png)
-
-> [!NOTE]
-> When they open they are just private threads
-> The ticket role is pinged which adds the staff to the private thread
-> Only admins and owner can add people to a ticket but to do so you just ping someone and they're added
-
-> [!WARNING]
-> Pinging a role will add all members with the role to the ticket
-
----
-
-**Q: What is a killfeed in DayZ?**<br>
-**A:** Killfeed is a feature that tracks and displays player kills, deaths, and other significant in-game events in semi-real-time. Killfeeds are commonly used on DayZ servers to provide players with information about combat-related activities.
-
----
-
-**Q: Why should I use a killfeed for my DayZ server?**<br>
-**A:** Using a killfeed like [Legion Killfeed](https://killfeed.co) has many benefits like:
-
-> - Enhances the player experience
-> - Improvese server management
-> - It helps administrators monitor in-game activities
-> - Allows players to keep track of their performance
-
----
-
-**Q: How does Legion Killfeed differ from other killfeeds?**<br>
-**A:** Legion Killfeed, available at [Killfeed.co](https://killfeed.co), is the most advanced and reliable killfeed for DayZ servers. Some of it's key features include:
-
-- Near real-time updates
-- Customizable embed styling
-- Unique and genius features
-- Seamless integration with Discord
-- Built in ticket system
-- Expert support
-- Heaps more
-
-Making it the top choice for both PS4/PS5 and Xbox DayZ communities as can be seen by legitimate [Trustpilot Reviews](https://www.trustpilot.com/review/killfeed.co).
-
----
-
-**Q: Can I customize the events tracked by Legion Killfeed?**<br>
-**A:** Yes, [Legion Killfeed](https://killfeed.co) is highly customizable. You can configure which events are tracked, such as:
-
-- kills
-- deaths
-- teleports
-- unconscious/conscious
-- connection
-- and heaps more feeds
-
-Additionally, you can tailor the killfeed embeds with your server logo and your embed colour.
-
----
-
-**Q: How do I set up Legion Killfeed on my DayZ server?**<br>
-**A:** Setting up [Legion Killfeed](https://killfeed.co) is advancedly programmed to be extremely straightforward as long as the steps are followed. After subscribing to the service and linking your discord account to your [Ko-Fi account](https://ko-fi.com/Discord/Settings), Ko-Fi's discord bot will add a role to you in [Legion's discord](https://discord.gg/LegionKillfeed) which will be detected by **Legion** who will activate the `/setup token` commands for your account and you'll receive a DM with a detailed setup guide. The setup process is straight forward, it's just two commands and the bot does most of the work.
-
-> [!WARNING]
-> You need to ensure you absolutely, 100% link your [discord account to your Ko-Fi account](https://ko-fi.com/Discord/Settings), this step is frequently missed.
-> <sub>If you need help, open a ticket!</sub>
-
----
-
-**Q: Does Legion delete anything?**<br>
-**A:** Absolutely not! [Legion Killfeed](https://killfeed.co) is designed only to create channels, the only messages it ever deletes are it's own and that's just to reduce spam. Legion is unable to access messages as it doesn't have [message intents](https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Privileged-Intent-FAQ) enabled, without those intents our bot only see's members which is required for linking, assigning admin, adding roles, etc.
-
----
-
-**Q: Can I use Legion Killfeed with other DayZ bots and tools?**<br>
-**A:** Yes, [Legion Killfeed](https://killfeed.co) cannot affect another bot in any way.
-
----
-
-**Q: Does Legion Killfeed affect server performance?**<br>
-**A:** No, [Legion Killfeed](https://killfeed.co) spends less than 5 seconds connected to your server when downloading logs, everything is handled by the bot once the logs are retrieved, except Nitrado server management commands (they of course have to connect to the server).
-
----
-
-**Q: How often does Legion Killfeed update its features?**<br>
-**A:** [Legion Killfeed](https://killfeed.co) is continuously updated with new features and improvements. The development team regularly releases updates based on community feedback to ensure that the killfeed remains the best option for DayZ servers, Soul works day and night updating the code & website.
-
----
-
-**Q: How do I contact support for Legion Killfeed?**<br>
-**A:** If you need assistance with [Legion Killfeed](https://killfeed.co), you can reach out to the support team via the [Discord server](https://discord.gg/LegionKillfeed). The support team is responsive and ready to help with any questions or issues you may have.
-
----
-
-**Q: Can I try Legion Killfeed before subscribing?**<br>
-**A:** <sub>`It's only $7USD/month for up to 10 servers per Nitrado account`</sub>
-
-Currently, [Legion Killfeed](https://killfeed.co) offers subscription-based services. However, the affordable pricing and top-rated features make it a worthwhile investment for any DayZ server owner looking to enhance their server with the most reliable and useful killfeed, for the low price of a coffee.
-
----
-
-**Q: What are the benefits of using Legion Killfeed over free alternatives?**<br>
-**A:** Free killfeeds may offer basic functionality, but the free killfeeds have a higher risk (and history) of selling your data to third parties.
-
-Where-as [Legion Killfeed](https://killfeed.co) provides a comprehensive set of features including:
-
-- semi-real-time updates
-- high customization
-- transparent and honest support
-
-combined with:
-
-- its reliability
-- expert nitrado integration
-- affordability
-- global server tracking
-- and heaps more
-
-When it comes down to it, Legion is the preferred choice for serious DayZ server communities.
-
----
-
-**Q: How does Legion Killfeed handle data privacy?**<br>
-**A:** [Legion Killfeed](https://killfeed.co) prioritizes data privacy and security. Legion does not store personal data beyond what is necessary for the service to function. Additionally, all data transmission is secured with industry-standard encryption, learn more by reading our [Privacy Policy](https://killfeed.co/legal#privacy-policy).
-
----
-
-**Q: Can I use Legion Killfeed on multiple servers with a single subscription?**<br>
-**A:** Yes, [Legion Killfeed](https://killfeed.co) offers up to 10 servers per Nitrado account (Slot size does not matter), no constricting subscription plans, we always allow you to use the killfeed on multiple servers.
-
----
-
-**Q: Is there a community around Legion Killfeed?**<br>
-**A:** Yes, [Legion Killfeed](https://killfeed.co) has an active community of DayZ server owners and dedication Global Leaderboard chasing players. You can join the community through the [Discord server](https://discord.gg/LegionKillfeed), where you can share tips, request features, find servers and get help from other users.
-
----
+</summary>
 
 <details>
 <summary>
@@ -309,13 +27,13 @@ When it comes down to it, Legion is the preferred choice for serious DayZ server
 
 - [Getting Started](https://github.com/Legion-Killfeed/DayZ/wiki/English/#getting-started)
 - [How to Set Up the Bot](https://github.com/Legion-Killfeed/DayZ/wiki/English/#how-to-setup-bot)
-- [FAQs & Tips](https://github.com/Legion-Killfeed/DayZ/wiki/English/#faqs)
+- [FAQs &amp; Tips](https://github.com/Legion-Killfeed/DayZ/wiki/English/#faqs)
 - [Bot Invite](https://discord.com/oauth2/authorize?client_id=1122337769008680971)
 - [Commands](https://github.com/Legion-Killfeed/DayZ/wiki/English/#commands)
   - [Subscriber Only](https://github.com/Legion-Killfeed/DayZ/wiki/English/#subscriber-only)
   - [Setup](https://github.com/Legion-Killfeed/DayZ/wiki/English/#subscriber-setup)
   - [Additional Settings](https://github.com/Legion-Killfeed/DayZ/wiki/English/#subscriber-additional)
-  - [Admin](https://github.com/Legion-Killfeed/DayZ/wiki//#admin)
+  - [Admin](https://github.com/Legion-Killfeed/DayZ/wiki/English/#admin)
   - [Killfeed Settings](https://github.com/Legion-Killfeed/DayZ/wiki/English/#killfeed-settings)
   - [Server Styling](https://github.com/Legion-Killfeed/DayZ/wiki/English/#server-styling)
   - [Server Naming](https://github.com/Legion-Killfeed/DayZ/wiki/English/#server-naming)
@@ -335,7 +53,6 @@ When it comes down to it, Legion is the preferred choice for serious DayZ server
 <summary>
 🇪🇸 Español
 </summary>
-  
 - [Primeros Pasos](https://github.com/Legion-Killfeed/DayZ/wiki/Spanish/#getting-started)
 - [Cómo Configurar el Bot](https://github.com/Legion-Killfeed/DayZ/wiki/Spanish/#how-to-setup-bot)
 - [Preguntas Frecuentes](https://github.com/Legion-Killfeed/DayZ/wiki/Spanish/#faqs)
@@ -355,7 +72,6 @@ When it comes down to it, Legion is the preferred choice for serious DayZ server
   - [Staff](https://github.com/Legion-Killfeed/DayZ/wiki/Spanish/#staff)
   - [Economía](https://github.com/Legion-Killfeed/DayZ/wiki/Spanish/#economy)
   - [Edición de Archivos](https://github.com/Legion-Killfeed/DayZ/wiki/Spanish/#file-editing)
-
 </details>
 
 ---
@@ -364,7 +80,6 @@ When it comes down to it, Legion is the preferred choice for serious DayZ server
 <summary>
 🇫🇷 Français
 </summary>
-  
 - [Mise en Route](https://github.com/Legion-Killfeed/DayZ/wiki/French/#getting-started)
 - [Comment Configurer le Bot](https://github.com/Legion-Killfeed/DayZ/wiki/French/#how-to-setup-bot)
 - [FAQ & Conseils](https://github.com/Legion-Killfeed/DayZ/wiki/French/#faqs)
@@ -384,7 +99,6 @@ When it comes down to it, Legion is the preferred choice for serious DayZ server
   - [Staff](https://github.com/Legion-Killfeed/DayZ/wiki/French/#staff)
   - [Économie](https://github.com/Legion-Killfeed/DayZ/wiki/French/#economy)
   - [Édition de Fichiers](https://github.com/Legion-Killfeed/DayZ/wiki/French/#file-editing)
-
 </details>
 
 ---
@@ -393,7 +107,6 @@ When it comes down to it, Legion is the preferred choice for serious DayZ server
 <summary>
 🇩🇪 Deutsch
 </summary>
-  
 - [Erste Schritte](https://github.com/Legion-Killfeed/DayZ/wiki/German/#getting-started)
 - [So Richten Sie den Bot ein](https://github.com/Legion-Killfeed/DayZ/wiki/German/#how-to-setup-bot)
 - [FAQ & Tipps](https://github.com/Legion-Killfeed/DayZ/wiki/German/#faqs)
@@ -413,7 +126,6 @@ When it comes down to it, Legion is the preferred choice for serious DayZ server
   - [Staff](https://github.com/Legion-Killfeed/DayZ/wiki/German/#staff)
   - [Wirtschaft](https://github.com/Legion-Killfeed/DayZ/wiki/German/#economy)
   - [Dateibearbeitung](https://github.com/Legion-Killfeed/DayZ/wiki/German/#file-editing)
-    
 </details>
 
 ---
@@ -502,3 +214,79 @@ When it comes down to it, Legion is the preferred choice for serious DayZ server
   - [تحرير الملفات](https://github.com/Legion-Killfeed/DayZ/wiki/Arabic/#file-editing)
 
 </details>
+</details>
+
+| [English](https://github.com/Legion-Killfeed/DayZ/wiki/English)           | [Español](https://github.com/Legion-Killfeed/DayZ/wiki/Spanish)          | [Deutsch](https://github.com/Legion-Killfeed/DayZ/wiki/German)          | [Français](https://github.com/Legion-Killfeed/DayZ/wiki/French)          | [عربي](https://github.com/Legion-Killfeed/DayZ/wiki/Arabic)                | [Русский](https://github.com/Legion-Killfeed/DayZ/wiki/Russian)          | [Italian](https://github.com/Legion-Killfeed/DayZ/wiki/Italian)          |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Commands](https://github.com/Legion-Killfeed/DayZ/wiki/English#commands) | [Comandos](https://github.com/Legion-Killfeed/DayZ/wiki/Spanish#commands) | [Befehls](https://github.com/Legion-Killfeed/DayZ/wiki/German#commands) | [Commandes](https://github.com/Legion-Killfeed/DayZ/wiki/French#commands) | [الأوامر](https://github.com/Legion-Killfeed/DayZ/wiki/Arabic#commands) | [Команды](https://github.com/Legion-Killfeed/DayZ/wiki/Russian#commands) | [Comandi](https://github.com/Legion-Killfeed/DayZ/wiki/Italian#commands) |
+| [FAQs ](https://github.com/Legion-Killfeed/DayZ/wiki/English#faqs)        | [Preguntas](https://github.com/Legion-Killfeed/DayZ/wiki/Spanish#faqs)    | [Fragen](https://github.com/Legion-Killfeed/DayZ/wiki/German#faqs)      | [FAQs](https://github.com/Legion-Killfeed/DayZ/wiki/French#faqs)          | [أسئلة](https://github.com/Legion-Killfeed/DayZ/wiki/Arabic#faqs)         | [вопросы](https://github.com/Legion-Killfeed/DayZ/wiki/Russian#faqs)     | [Domande](https://github.com/Legion-Killfeed/DayZ/wiki/Italian#faqs)     |
+
+## Feature Index
+
+### Server Setup
+
+Legion is built around DayZ console servers using Discord and Nitrado. Server owners can add services with `/setup token`, create the required Discord channels with `/setup channels`, assign an existing Discord server with `/setup assign discord`, and turn processing back on with `/setup activate`.
+
+### Killfeed And Feeds
+
+Legion processes authorised server logs into Discord outputs for killfeed, PVE, hitfeed, buildfeed, connect/disconnect activity, player locations, status, and related server events. Feed destinations and location output are configured with `/settings channel assign`, `/settings channel create`, and `/settings configure locations`.
+
+### Nitrado Server Tools
+
+The bot includes Nitrado dashboard and service tools for owners who authorise access. Use `/nitrado dashboard settings`, `/nitrado dashboard damage`, `/nitrado details update`, `/nitrado details view`, `/nitrado tasks list`, `/nitrado tasks add`, and `/nitrado tasks delete` for common server-management workflows.
+
+### Logs And Server Controls
+
+Admins can assign automatic log downloads with `/logs auto download`, download current or archived logs with `/logs download current`, `/logs download kills`, and `/logs download all`, restart or stop servers with `/server restart` and `/server stop`, recover restart loops with `/server break loop`, and remove stop files with `/server delete stop`.
+
+### Admin And Moderation
+
+Legion includes admin tools for player lookup, online locations, forced linking, and controlled fight actions. Common commands include `/admin player search`, `/admin player locations`, `/admin force link`, `/admin force unlink`, `/admin force fight`, `/admin tracker`, `/admin spawner add`, `/admin spawner remove`, and `/admin spawner nuke`.
+
+### Access Lists And Alt Detection
+
+Server staff can manage banlists, whitelists, and priority queues with `/ban add`, `/ban remove`, `/ban view`, `/whitelist add`, `/whitelist remove`, `/whitelist view`, `/priority add`, `/priority remove`, and `/priority view`. Alt and device workflows are handled through `/alt detector search`, `/alt detector ban`, `/alt detector unban`, `/alt detector state`, and `/alt detector view`.
+
+### PVE, Autoban, And Cheat Controls
+
+PVE and autoban behaviour can be configured with `/settings autoban config`, cheat autobans with `/settings autoban cheats`, and safe-list entries with `/settings autoban whitelist`. These tools support whole-map moderation workflows and server-specific rules.
+
+### Player Stats And Maps
+
+Players and staff can use `/stats`, `/mine`, `/leaderboard`, `/global`, `/link`, `/unlink`, `/plon`, `/last locations`, and `/heatmaps` for player stats, linked accounts, leaderboards, online visibility, location history, and heatmap-style activity views.
+
+### Economy, Bounties, And Games
+
+Legion includes a configurable economy with admin balance controls, player banking, gambling, work, fishing, daily rewards, bounties, and lotteries. Key commands include `/banking settings`, `/banking adjust user`, `/banking adjust all`, `/banking manage reset`, `/bal`, `/deposit`, `/withdraw`, `/pay`, `/rob`, `/fish`, `/work`, `/daily`, `/slots`, `/blackjack`, `/diceroll`, `/roulette`, `/rps`, `/bounty add`, `/bounty view`, `/bounty pay`, `/lottery buy`, `/lottery check`, `/lottery tickets`, and `/lottery draw`.
+
+### Files, Gameplay, XML, And Generators
+
+Legion includes file upload/download, gameplay editing, XML validation, types editing, update comparisons, teleport generation, and QR-code sign generation. Useful commands include `/file upload`, `/file download`, `/file gameplay damage`, `/file gameplay edit`, `/types local validate`, `/types local edit`, `/types local boost`, `/types server boost`, `/compare updates`, `/compare types`, `/generate teleports file`, and `/generate qrcode sign`.
+
+### Scheduling And Automation
+
+Automated server workflows are configured with `/scheduler settings configure`, `/scheduler settings restarts`, `/scheduler settings damage`, `/scheduler settings view`, `/scheduler damage configure`, `/scheduler gameplay edits`, and `/scheduler gameplay remove`. These cover restart handling, base damage scheduling, and automated gameplay file edits.
+
+### Shoppi Trader
+
+Shoppi supports trader setup, item/pricing output, cart workflows, delivery handling, and admin status/location tools. Use `/shoppi config setup`, `/shoppi config start`, `/shoppi config restarts`, `/shoppi mode`, `/shoppi admin location`, `/shoppi admin status`, `/shoppi items`, `/shoppi pricing`, `/shoppi delivery`, `/shoppi cart add`, `/shoppi cart view`, `/shoppi cart clear`, and `/shoppi cart checkout`.
+
+### Tickets, Factions, And Flag Map
+
+Legion includes Discord ticket setup and refresh tools, faction management, and flag-map game modes. Commands include `/ticket setup`, `/ticket close`, `/ticket colours`, `/ticket refresh`, `/faction create`, `/faction acreate`, `/faction members`, `/faction ignorelist`, `/faction view`, `/server fetch`, `/flagmap setup help`, `/flagmap setup locations`, `/flagmap setup channel`, `/flagmap setup mode`, `/flagmap setup teams`, and `/flagmap view active`.
+
+### Embeds, Support, And Submissions
+
+Owners can build custom embeds with `/embed build`, open Legion support with `/killfeed support`, view bot information with `/info`, submit feature requests with `/submit bot suggestions`, and submit death roasts with `/submit bot roast`.
+
+|                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🏦 Economy & Gambling**<br><br>Customizable economy system with multipliers.  <br>Earn currency for kills, builds, and raiding.  <br>Gambling options: Roulette, blackjack, slots, dice-roll, rock paper scissors, coin-flip.  <br>Disable economy features like rob, work, fish, and daily earnings.  <br>Configure economy settings via `/banking settings`. | **👁️ Visual Killfeed & Buildfeed**<br><br>Real-time visual killfeed displaying who was shot, where, and with what weapon.  <br>Buildfeed logs construction details, including parts and location.  <br>Toggle location display with `/settings configure locations`. |
+| **👑 Assignable Role Levels**<br><br>Dynamic role assignment system.  <br>Roles: Founder/Owner, Admin, Moderator, Restarter, Whitelister.  <br>Subscriber setup via `/setup token`.  <br>Manage role permissions with `/settings configure misc`.                                                                                                                     | **🗺️ Heatmaps**<br><br>Automatically generated heatmaps for various metrics.<br>**Heatmap Types:**<br>PVP Damage, Kills, Player Locations, Ban on Entry.  <br>`/heatmaps`                                           |
+| **🗃️ Timed Functions**<br><br>Automatic log downloads for server monitoring.  <br>Automated base damage scheduling with timezone support.  <br>Configure base damage scheduling with `/scheduler damage configure`.                                                                                                                                                         | **👊 /fight**<br><br>Challenge another Discord member to a fight.  <br>Loser is randomly timed out (Admins with 2FA enabled are immune).                                                                                                                           |
+| **🖼️ Set Server Logo via URL**<br><br>Upload your logo to [imgbb.com](https://imgbb.com) and apply it with `/settings configure logo`.                                                                                                                                                                                                                                                  | **🎟️ Ticket System**<br><br>Built-in Discord ticketing system.  <br>Tracks exclusive player information upon ticket creation.  <br>Configure ticket panels with `/ticket setup`.                                                                     |
+| **🏆 Global Leaderboards**<br><br>Tracks top players, servers, weapons, builds, and kills.  <br>Adapted from the Jeabers Killfeed scoring system.  <br>`/leaderboard` \| `/global`                                                                                                                                                                                         | **⚔️ PVE & PVP Feeds**<br><br>Dedicated tracking for both PVE and PVP encounters.  <br>Auto-updated statistics for player interactions.  <br>Configure PVE autoban with `/settings autoban config` and safe-list entries with `/settings autoban whitelist`.                                                                   |
+| **💰 Base Raiding**<br><br>Automated tracking of base damage and raiding statistics.  <br>Custom base radar with owner-managed ignore lists.  <br>Base radar pages are retained as legacy wiki references; current public bot commands are listed in the command inventory.                                                                                                                                                                  | **📍 Last Locations**<br><br>Custom location tracking for players with iZurvive integration.  <br>Works only when players are online to optimize resource usage.  <br>View last locations with `/last locations`.                                            |
+| **🛠️ CFG Gameplay Editing**<br><br>Modify server configuration files like cfgGameplay.json directly via Discord.  <br>Add/remove Object Spawner and Spawn Gear files.  <br>`/file gameplay edit`                                                                                                                                                                                | **📊 Status & Heatmap Feeds**<br><br>Real-time auto-feed updates for status, heatmaps, and server resource usage.  <br>`/settings configure misc`                                                                                                                       |
+| **🔥 Auto-Bans on Entry**<br><br>Ban players based on killfeed data.  <br>Triggers include: kills, deaths, logouts, building, placement, and more.  <br>Configure autoban settings with `/settings autoban config`.                                                                                                                                                        | **📝 Custom Embeds**<br><br>Create Discord embeds with ease.  <br>Customizable without needing third-party tools.  <br>`/embed build`                                                                                                                           |
+| **💀 Roasts on Death**<br><br>Automatically generate humorous roasts when a player dies.  <br>Community-driven with contributions credited in `/info`.  <br>Submit a roast with `/submit bot roast`.                                                                                                                                                                | **🤖 Expert Support**<br><br>Get direct coding assistance and troubleshooting from experienced developers.  <br>Directly accessible for server owners needing help.                                                                                                |
